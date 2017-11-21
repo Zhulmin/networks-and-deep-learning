@@ -14,7 +14,7 @@ sigmoid 神经元对每个输入值有对应的权值w1,w2,w3... 偏移量b则�
 
 sigmoid神经元和感知机(线性)的函数:
 
-![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f1.png)
+![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f1.png) ![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f2.png)
 
 
  
