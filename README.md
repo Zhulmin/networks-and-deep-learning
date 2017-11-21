@@ -9,7 +9,12 @@ output' = W'x + b
 output  = Wx + b
 ```
 
-sigmoid 神经元对每个输入值有对应的权值w1,w2,w3... 偏移量b则是定值, 输入值是 δ(Wx+b), δ为sigmoid函数
+sigmoid 神经元对每个输入值有对应的权值w1,w2,w3... 偏移量b则是定值, 
+但是定义为δ(Wx+b)时, δ为sigmoid函数, 貌似对W和b都作出调整
+
+sigmoid神经元和感知机(线性)的函数:
+
+![image](sdfsd.png)
 
 
  
