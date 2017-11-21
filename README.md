@@ -26,6 +26,10 @@ sigmoid神经元和感知机(线性)的函数:
    
    
 ![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f0.png)
+   
+   
+   
+δ函数也称为 logistic function 
+多层网络也称为多层感知机（multilayer perceptron，MLP)
 
-   
-   
+输入神经元为输入值, 输出神经元为输入种类, 隐层神经元的个数是自定义的
