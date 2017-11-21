@@ -14,7 +14,16 @@ sigmoid 神经元对每个输入值有对应的权值w1,w2,w3... 偏移量b则�
 
 sigmoid神经元和感知机(线性)的函数:
 
-![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f1.png) ![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f2.png)
+![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f1.png)            ![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f2.png)
 
+   
+   
+##### z = Wx + b
+当z的值很大的时候, δ(z) = 1
+当z的值很小的时候, δ(z) = 0
+即 output = e^z 
+δ函数其实可以表示为
+![image](https://github.com/Zhulmin/networks-and-deep-learning/raw/master/images/c1f0.png)
 
- 
+   
+   
